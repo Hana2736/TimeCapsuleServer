@@ -11,7 +11,7 @@ public class Program
         new CapsuleMgr();
         try
         {
-            var reader = File.OpenRead("c:/users/hana/desktop/db.json");
+            var reader = File.OpenRead("c:/users/Travis/OneDrive/desktop/db.json");
             CapsuleMgr.capsules =
                 (Dictionary<Guid, TimeCapsuleContainer>)JsonSerializer.Deserialize(reader,
                     CapsuleMgr.capsules.GetType());

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hana\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj": {}
+    "C:\\Users\\Travis\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hana\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj": {
+    "C:\\Users\\Travis\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hana\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj",
+        "projectUniqueName": "C:\\Users\\Travis\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj",
         "projectName": "TimeCapsuleServer",
-        "projectPath": "C:\\Users\\Hana\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj",
-        "packagesPath": "C:\\Users\\Hana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hana\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\obj\\",
+        "projectPath": "C:\\Users\\Travis\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\TimeCapsuleServer.csproj",
+        "packagesPath": "C:\\Users\\Travis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Travis\\RiderProjects\\TimeCapsuleServer\\TimeCapsuleServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Travis\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
